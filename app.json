@@ -11,7 +11,8 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#cc9999",
-    "navigationBarTitleText": "Hi-Photo",
+    "navigationBarTitleText": "修图工具",
     "navigationBarTextStyle": "black"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
