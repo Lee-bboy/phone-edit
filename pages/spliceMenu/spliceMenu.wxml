@@ -5,5 +5,9 @@
     <view class="btn" bindtap='chooseSpliceLongImg'><text class="icon-longphoto"></text><text>拼长图</text></view>
     <view class="btn" bindtap='chooseSpliceFrame'><text class="icon-frame"></text><text>拼相框</text></view>
   </view>
+
+  <view class="menuAdContainer">
+    <ad unit-id="adunit-f8d849e8c4499cdb" ad-type="video" ad-theme="white"></ad>
+     </view>
 </view>
 

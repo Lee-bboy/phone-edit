@@ -6,5 +6,8 @@
     <navigator class="btn btn2" hover-class="none" url="../spliceMenu/spliceMenu"><text class="icon2"></text><text class="text">趣味拼图</text></navigator>
     <!-- <navigator class="btn btn3" hover-class="none" url="../emotionChoose/emotionChoose"><text class="icon3"></text><text class="text">智斗基地</text></navigator> -->
   </view>
+  <view class="adContainer">
+    <ad unit-id="adunit-8fbd3f3c5601b6a2"></ad> 
+   </view>
 </view>
 
